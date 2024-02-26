@@ -1,4 +1,4 @@
-# Instrattion & Requirements
+# Instration & Requirements
 We used Python 3.10.12. To run this package, please install dependencies with following code.
 
 ```
